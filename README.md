@@ -1,5 +1,4 @@
-# Saving the content into a Markdown file for the user to download.
-readme_content = """
+
 # Hey there! I'm Shubham Kedare 👋
 
 I'm a **Full Stack Developer** who loves turning ideas into awesome, functional web apps. With **3+ years** of experience under my belt, I’ve been diving deep into both frontend and backend magic, building everything from sleek user interfaces to powerful, scalable systems. If you’re into cool tech and want to build something awesome, you’re in the right place.
@@ -36,4 +35,3 @@ I'm always open to new opportunities, collaborations, or just a good tech chat. 
 - 🖥️ **GitHub**: [github.com/kedareshubham11](https://github.com/kedareshubham11)
 
 Let’s build something amazing! 😄
-"""
